@@ -1,4 +1,4 @@
-# winp2000_m06_week3
+Jagannadh Thanooj Mirabana 500226146
 
 Section 1: Linux History:
 
