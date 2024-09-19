@@ -48,7 +48,7 @@ A Linux distribution is usually built around a package management system, which 
 
 **Red Hat** - which has comprehensive support options and backing of a large commercial linux provider
 
-**Oracle** - for robi=ust red hat clone at lower cost of ownership
+**Oracle** - for robust red hat clone at lower cost of ownership
 
 **ubuntu** - for longterm linux server and supports solid cloud credentials
 
