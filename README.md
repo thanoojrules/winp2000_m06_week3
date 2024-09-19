@@ -56,6 +56,7 @@ A Linux distribution is usually built around a package management system, which 
 
 
 **Section 3: Basic Linux Commands**
+
         1.	**ls:** gives files and directories 
 	
 	2.	**cd:** for changing current directory
