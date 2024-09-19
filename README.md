@@ -23,7 +23,7 @@ A Linux distribution is usually built around a package management system, which 
 
 #2. Examples of Popular Linux Distributions
 
-**Ubuntu**
+**'Ubuntu'**
 **CentOS**
 **Fedora**
 **Debian**
