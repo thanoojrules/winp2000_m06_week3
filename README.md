@@ -31,16 +31,12 @@ Some popular Linux distributions include Ubuntu, known for its user-friendly int
 Different Linux distributions vary in their package management systems, user interfaces, and target audiences. For instance, Ubuntu uses the APT package manager and offers a graphical interface that appeals to beginners, while Arch Linux employs a rolling release model and requires users to install and configure the system manually, attracting advanced users. Debian prioritizes stability, making it ideal for servers, whereas Fedora emphasizes new technologies and features, often acting as a testing ground for Red Hat Enterprise Linux. These differences enable users to choose a distribution that aligns with their skill level and specific needs.
 
 Section 3: Basic Linux Commands
-  1. ls: Lists files and directories in the current directory. You can use options like -l for detailed information or -a to include hidden files.
-	2.	cd: Changes the current directory to the specified path. For example, cd Documents moves into the Documents directory, while cd .. takes you one level up 
-          in the directory structure.
-	3.	pwd: Prints the current working directory, showing the full path to the directory you are currently in. This helps you know your location in the filesystem.
-	4.	mkdir: Creates a new directory with the specified name. For instance, mkdir new_folder creates a directory called “new_folder” in the current location.
-	5.	cp: Copies files or directories from one location to another. For example, cp file.txt /path/to/destination/ copies “file.txt” to the specified destination.
-	6.	mv: Moves or renames files or directories. For example, mv old_name.txt new_name.txt renames a file, while mv file.txt /path/to/destination/ moves it to a 
-          new location.
-	7.	rm: Removes files or directories. Using rm file.txt deletes “file.txt,” and with the -r option (e.g., rm -r folder_name), you can delete entire directories 
-          and their contents.
-	8.	sudo: Executes a command with superuser (root) privileges. This is necessary for commands that require administrative rights, such as sudo apt update, 
-            which updates the package list on Debian-based systems.
+1.ls: Lists files and directories in the current directory. You can use options like -l for detailed Information or -a to include hidden files.
+2.cd: Changes the current directory to the specified path. For example, cd Documents moves into the Documents directory, while cd .. in the directory structure.
+3.pwd: Prints the current working directory, showing the full path to the directory you are currently in. This helps you know your location in the filesystem.
+4.mkdir: Creates a new directory with the specified name. For instance, mkdir new_folder creates a directory called “new_folder” in the current location.
+5.cp: Copies files or directories from one location to another. For example, cp file.txt /path/to/destination/ copies “file.txt” to the specified destination.
+6.mv: Moves or renames files or directories. For example, mv old_name.txt new_name.txt renames a file, while mv file.txt /path/to/destination/ moves it to a new location.
+7.rm: Removes files or directories. Using rm file.txt deletes “file.txt,” and with the -r option (e.g., rm -r folder_name), you can delete entire directories and their contents.
+8.sudo: Executes a command with superuser (root) privileges. This is necessary for commands that require administrative rights, such as sudo apt update, which updates the package list on Debian-based systems.
 	
