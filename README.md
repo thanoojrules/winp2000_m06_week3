@@ -1,6 +1,6 @@
 Jagannadh Thanooj Mirabana 500226146
 
-Section 1: Linux History:
+**Section 1**:**Linux History:**
 
 #1. Write about the origins and history of Linux.
 
@@ -14,7 +14,7 @@ Key contributors to the development of the Linux kernel including Linus Torvalds
 
 The demands of commercial use have driven improvements in scalability, reliability, and security, making Linux a preferred choice for servers, cloud computing, and embedded systems.
 
-Section 2: Linux Distributions:
+**Section 2: Linux Distributions:**
 
 #1. What are Linux Distributions and Why Are They Important?
 
@@ -43,7 +43,7 @@ ubuntu - for longterm linux server and supports solid cloud credentials
 SUSE - or longterm linux server and support version of custom installation options
 
 
-Section 3: Basic Linux Commands
+**Section 3: Basic Linux Commands**
         1.	ls: gives files and directories 
 	2.	cd: for changing current directory
 	3.	pwd: prints the current working directory path
